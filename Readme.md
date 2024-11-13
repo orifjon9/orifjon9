@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orifjon Narkulov</h1>
-<h3 align="center">A passionate full-stack engineer from Uzbekistan</h3>
+<h3 align="center">A passionate full-stack & cloud engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orifjon9&label=Profile%20views&color=0e75b6&style=flat" alt="orifjon9" /> </p>
 
